@@ -1,0 +1,4 @@
+/* Keep this minimal; Docusaurus theme handles most styling. */
+:root {
+  --ifm-code-font-size: 95%;
+}
