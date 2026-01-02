@@ -26,7 +26,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
-          editUrl: 'https://github.com/TechMechanik/minecraft/tree/main/',
+          editUrl: 'https://github.com/TechMechanik/minecraft-designs/tree/main/',
           showLastUpdateTime: true,
           showLastUpdateAuthor: true,
         },
@@ -49,7 +49,7 @@ const config = {
           label: 'Docs',
         },
         {
-          href: 'https://github.com/TechMechanik/minecraft',
+          href: 'https://github.com/TechMechanik/minecraft-designs',
           label: 'GitHub',
           position: 'right',
         },
@@ -68,8 +68,8 @@ const config = {
         {
           title: 'Community',
           items: [
-            { label: 'Issues', href: 'https://github.com/TechMechanik/minecraft/issues' },
-            { label: 'Discussions', href: 'https://github.com/TechMechanik/minecraft/discussions' },
+            { label: 'Issues', href: 'https://github.com/TechMechanik/minecraft-designs/issues' },
+            { label: 'Discussions', href: 'https://github.com/TechMechanik/minecraft-designs/discussions' },
           ],
         },
       ],
