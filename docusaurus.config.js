@@ -6,9 +6,9 @@ const config = {
 
   // GitHub Pages
   url: "https://techmechanik.github.io",
-  baseUrl: "/minecraft/",
+  baseUrl: "/minecraft-designs/",
   organizationName: "TechMechanik",
-  projectName: "minecraft",
+  projectName: "minecraft-designs",
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
